@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tracks>
+  <track>
+    <name>Track 1</name>
+    <artist>
+      <name>Andy Aardvark</name>
+    </artist>
+  </track>
+  <track>
+    <name>Track	2	Contains	Tabs</name>
+    <artist>
+      <name>	Andy	Aardvark	</name>
+    </artist>
+  </track>
+  <track>
+    <name>Track
+3
+Contains
+Newlines</name>
+    <artist>
+      <name>
+Andy
+Aardvark
+</name>
+    </artist>
+  </track>
+  <track>
+    <artist>
+      <name>Andy Aardvark</name>
+    </artist>
+    <name>Track 4 Reverses the Element Sequence</name>
+  </track>
+  <track>
+    <artist>
+      <name>Āňðÿ Åäŗḑѵ∀ℛϰ™</name>
+    </artist>
+    <name>Track 5 ℏas Ħigh-Unicode Letters</name>
+  </track>
+  <track>
+    <name>Track 6 Contains Other Elements</name>
+    <album>
+      <name>Album name</name>
+      <position>1</position>
+    </album>
+    <artist>
+      <name>Artist X</name>
+      <mbid>be030a8d-c53c-4fd6-aeea-a01d9ab626a3</mbid>
+      <url>http://example.org/artist/abcdefgh</url>
+    </artist>
+    <duration>120000</duration>
+    <image size="small">http://example.org/images/123s.jpg</image>
+    <image size="medium">http://example.org/images/123m.jpg</image>
+    <image size="large">http://example.org/images/123l.jpg</image>
+    <image size="extralarge">http://example.org/images/123e.jpg</image>
+    <mbid>1cc1322d-9640-4c77-b92e-925d534335b0</mbid>
+    <playcount>999</playcount>
+    <streamable fulltrack="0">1</streamable>
+    <tagcount>0</tagcount>
+    <url>http://example.org/music/12345678</url>
+  </track>
+  <track>
+    <name>"Track 7 Contains Quotes"</name>
+    <artist>
+      <name>Andy " Aardvark</name>
+    </artist>
+  </track>
+  <track>
+    <artist>
+      <name>
+	 "
+"Āňðÿ ""	Åäŗḑѵ∀ℛϰ™ 	 " 	
+	</name>
+    </artist>
+    <duration>120000</duration>
+    <name>Track
+	8 " Combines tℏe Otℎer ⊤ests</name>
+    <image size="extralarge">http://example.org/images/123e.jpg</image>
+  </track>
+  <track>
+    <artist>
+      <name>No Track Name</name>
+    </artist>
+  </track>
+  <track>
+    <name>No Artist Name</name>
+  </track>
+</tracks>
